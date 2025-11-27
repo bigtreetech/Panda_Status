@@ -11,3 +11,11 @@ Visit the wiki here to get the full online manual: https://bttwiki.com/Panda_Sta
 3. After printing is completed, the green light remains on for 15 minutes and then changes to the idle mode light effect
 
 4. In non-MUSIC mode, if no print is made in the idle state for more than 120 minutes, it will automatically switch to standby mode and light up when the next print is initiated. When a user accesses or operates the Web UI or prints, the light bar is awakened (the light bar lights up) to simulate the operation of waking up the light bar on the H2D operation screen
+
+
+
+# Update content for V1.0.2
+
+1. Support connection to Bambu Lab P2S.
+
+2. Added illegal character filtering.
