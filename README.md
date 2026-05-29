@@ -19,3 +19,11 @@ Visit the wiki here to get the full online manual: https://bttwiki.com/Panda_Sta
 1. Support connection to Bambu Lab P2S.
 
 2. Added illegal character filtering.
+
+
+# Update content for V1.0.3
+
+1. Support H2D style mode with customizable lighting effects for various statuses.
+
+2. Support connection to Home Assistant (HA).
+
