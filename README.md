@@ -21,7 +21,7 @@ Visit the wiki here to get the full online manual: https://bttwiki.com/Panda_Sta
 2. Added illegal character filtering.
 
 
-# Update content for V1.0.3
+# Update content for V2.0.0
 
 1. Support H2D style mode with customizable lighting effects for various statuses.
 
